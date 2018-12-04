@@ -6,6 +6,8 @@ git clone https://github.com/zgrkaka/koa2demo.git
 
 cd koa2demo
 
+npm install
+
 node index 启动服务
 
 cd app 
